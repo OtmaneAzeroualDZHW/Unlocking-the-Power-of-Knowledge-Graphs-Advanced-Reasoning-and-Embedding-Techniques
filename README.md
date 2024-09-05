@@ -10,7 +10,8 @@ Paper Overview:
 Purpose of the Repository: This repository provides the code corresponding to the appendix of the paper. It includes mathematical formulations, pseudocode, and example implementations of the various reasoning and embedding algorithms discussed in the paper. The provided code examples aim to help researchers, data scientists, and developers understand and implement the algorithms presented in the paper.
 
 Repository Contents:
-1.Code for Reasoning Algorithms:
+
+1. Code for Reasoning Algorithms:
 - Rule-Based Reasoning
 - Constraint-Based Reasoning
 2. Code for Embedding Algorithms:
